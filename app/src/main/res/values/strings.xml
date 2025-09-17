@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">iTunes top 100</string>
+    <string name="list_title">iTunes top 100 albums</string>
+    <string name="empty_list">No entries available. Check back later.</string>
+    <string name="error_message">An error has occurred. Press \"OK\" to reload.</string>
+    <string name="topbar_text">on the list</string>
+    <string name="artist_text">Artist</string>
+    <string name="genre_text">Genre</string>
+    <string name="release_text">Release date</string>
+    <string name="ok">OK</string>
+</resources>
